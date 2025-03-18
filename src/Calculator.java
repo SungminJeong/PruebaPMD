@@ -8,7 +8,7 @@ public class Calculator {
 
     public int dividir(int a, int b) {
         // Error: no maneja división por 0 correctamente
-        //prudeba comentario
+        //prudeba comentario-----
         return a / b;
     }
 
