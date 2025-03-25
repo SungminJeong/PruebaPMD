@@ -12,8 +12,9 @@ public class Calculator {
         return a / b;
     }
 
+
     // Código redundante e innecesario
     public void imprimirMensaje() {
-        System.out.println("Hola, soy un método inútil");
+        System.out.println("Hola, soy un metodo inútil");
     }
 }
